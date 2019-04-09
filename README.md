@@ -130,6 +130,15 @@ la solución mas adecuada a la problemática que el cliente nos plantea y es la 
 
 
 * Problemas encontrados tanto a nivel de negocio como a nivel de usuario
+
+El problema a nivel negocio se muestra en la diferencia numérica de quienes consultan la aplicación hasta quienes la descargan y la usan; debido a que la app solo esta para IOS.  Debido a que sus programadores solo saben ese sistema operativo.
+
+No cuenta con los recursos tecnológicos para fusionar ambas aplicaciones (BANCA-AHORRO)
+
+Los usuarios no desean tantas aplicaciones del mismo banco (Solo para realizar distintas funciones), no es práctico.
+
+
+
 * Recomendaciones de próximos pasos para el banco con respecto al app (estas
   recomendaciones tendrán que ser sustentadas por tu investigación):
   * Qué modificaciones se deberían hacer
