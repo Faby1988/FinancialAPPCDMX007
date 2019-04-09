@@ -139,22 +139,11 @@ Los usuarios no desean tantas aplicaciones del mismo banco (Solo para realizar d
 
 
 
-* Recomendaciones de próximos pasos para el banco con respecto al app (estas
-  recomendaciones tendrán que ser sustentadas por tu investigación):
-  * Qué modificaciones se deberían hacer
-  * Cuáles deberían ser los próximos desarrollos
-  * En qué se debería invertir el presupuesto de marketing
-* De acuerdo al punto anterior, de requerirse cambios y desarrollos nuevos,
-  estos deberán ser diseñados y entregados en un prototipo de alta definición.
-* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
-  diseños con desarrolladores
+* Recomendaciones de próximos pasos para el banco con respecto al app
+  * Observar imágen adjunta de Heurística.
+  * Los próximos desarrollos deben enfocarse en la creación de la aplicación para Android.
+  * A continuación estos son los cambios efectuados para la aplicación: [Prototipo navegable](https://marvelapp.com/4i7a349/screen/55361205)
 
-Un video en Loom de máximo 5 minutos explicando tu documento.
-* Estos 5 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución propuesta.
-
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso.
 
 ### Hacker edition
 
