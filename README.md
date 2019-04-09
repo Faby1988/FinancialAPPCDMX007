@@ -123,13 +123,12 @@ manera de mostrar tu demo y por sobre todo prueba antes de presentar frente al
 cliente. En la presentación no deben ocurrir errores.
 
 ## Entrega
-
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
-
-README.md  detallando:
-
 * Objetivos iniciales del proyecto
+
+Se debe evaluar las condiciones del MVP del app "Tus Finanzas" para poder encontrar
+la solución mas adecuada a la problemática que el cliente nos plantea y es la adquisición de nuevos clientes.
+
+
 * Problemas encontrados tanto a nivel de negocio como a nivel de usuario
 * Recomendaciones de próximos pasos para el banco con respecto al app (estas
   recomendaciones tendrán que ser sustentadas por tu investigación):
