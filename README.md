@@ -77,10 +77,11 @@ Andrea necesita tener siempre presente que está ahorrando para su viaje de grad
  ![Mapa](https://i.ibb.co/xYMf79H/Captura-de-Pantalla-2019-07-14-a-la-s-1-42-47.png)
 
 ## Ideación.
-Se decidio realizar un mapa Heurístico para evaluar las partes a cambiar dar solución a nuestro reto de Diseño:
+Se decidio realizar un mapa Heurístico para evaluar las partes a cambiar para dar solución a nuestro reto de Diseño:
 
 ![Mapa](https://i.ibb.co/FsG3CNF/Captura-de-Pantalla-2019-07-14-a-la-s-1-40-30.png)
 
 
-
+## Prototipo:
+Y este fue el resultado final de la [aplicación]() 
 
