@@ -19,4 +19,12 @@ proponer un nueva alternativa. Para esto, se comenzo por investigar
 la información que se tenía previamente del banco; entender qué datos ya maneja la aplicación y qué elementos
 necesitas averiguar para completar el proyecto. 
 
+## Definición del problema
+
+Para esta etapa se decidio realizar una investigación de campo donde se le pregunto a 6 usuarios lo que opinaban de nuestra aplicación y estos fuerón los resultados:
+
+![Mapa](https://i.ibb.co/nB7kpXK/Captura-de-Pantalla-2019-07-14-a-la-s-1-15-30.png)
+
+
+
 
