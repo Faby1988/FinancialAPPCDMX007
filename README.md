@@ -41,3 +41,46 @@ De donde obtuvimos 4 mapas de empatía que nos hicieron comprender mas al usuari
 -  Posteriormente se realizo un Diagrama de Afinidad para obtener información más concreta:
 ![Mapa](https://i.ibb.co/VT9w0Lw/Captura-de-Pantalla-2019-07-14-a-la-s-1-31-49.png)
 
+
+-  De donde obtuvimos los siguientes resultados:
+
+Problemas encontrados tanto a nivel de negocio como a nivel de usuario
+El problema a nivel negocio se muestra en la diferencia numérica de quienes consultan la aplicación hasta quienes la descargan y la usan; debido a que la app solo esta para IOS.  Debido a que sus programadores solo saben ese sistema operativo.
+
+No cuenta con los recursos tecnológicos para fusionar ambas aplicaciones (BANCA-AHORRO)
+
+Los usuarios no desean tantas aplicaciones del mismo banco (Solo para realizar distintas funciones), no es práctico.
+
+Rangos de edad: 25-35 años.
+-Desconfían en dar sus datos, quieren poder manejar diferentes tarjetas en la aplicación (diferentes bancos). Desean poder realizar pagos desde la aplicación. Quieren saber de manera más específica en que se consume más su capital. Desean tips que les ayuden a lograr el ahorro. No ven necesario poner foto de perfil.
+
+Rango de edad: 18-24 años.
+No tienen una cuenta bancaria y no reciben tantos recursos como para activar una. 
+
+
+
+Perfil 1.  Edades 18-24 años.
+Nombre: Andrea
+Edad: 22 años.
+Ocupación: Estudiante.
+Andrea estudia en la Universidad y como todo estudiante  al final de la carrera desea asistir a su viaje de graduación. Ella disfruta salir con sus amigas cada viernes a ver la película de estreno y compartir su opinión de la misma con  una taza de café en su cafetería favorita. Es así que entre comidas, transporte y material para la escuela Andrea gasta la mayoría del dinero que sus padres le dan como presupuesto. Ha intentado llevar una cuenta de banco, pero el solo recibir el estado de cuenta no le hace percibir en qué gasta más su dinero.
+
+Frustraciones. No sabe administrar el dinero que mes con mes sus padres le otorgan.
+Necesidades. Desea ahorrar para su viaje de graduación.
+
+
+Objetivo del Usuario: Tener siempre presente su objetivo para el cual está ahorra y no tener fugas de dinero en cosas innecesarias.
+Andrea necesita tener siempre presente que está ahorrando para su viaje de graduación por que se deja llevar por el impulso del momento y se deja convencer por sus amigas cinéfilas. 
+
+ ## Reto de Diseño. 
+ 
+ ![Mapa](https://i.ibb.co/xYMf79H/Captura-de-Pantalla-2019-07-14-a-la-s-1-42-47.png)
+
+## Ideación.
+Se decidio realizar un mapa Heurístico para evaluar las partes a cambiar dar solución a nuestro reto de Diseño:
+
+![Mapa](https://i.ibb.co/FsG3CNF/Captura-de-Pantalla-2019-07-14-a-la-s-1-40-30.png)
+
+
+
+
