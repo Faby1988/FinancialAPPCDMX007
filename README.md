@@ -38,6 +38,6 @@ De donde obtuvimos 4 mapas de empatía que nos hicieron comprender mas al usuari
 
 
 
-Posteriormente se realizo un Diagrama de Afinidad para obtener información más concreta:
+-  Posteriormente se realizo un Diagrama de Afinidad para obtener información más concreta:
 ![Mapa](https://i.ibb.co/VT9w0Lw/Captura-de-Pantalla-2019-07-14-a-la-s-1-31-49.png)
 
