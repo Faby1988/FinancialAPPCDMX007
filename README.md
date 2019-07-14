@@ -83,5 +83,5 @@ Se decidio realizar un mapa Heurístico para evaluar las partes a cambiar para d
 
 
 ## Prototipo:
-Y este fue el resultado final de la [aplicación](https://marvelapp.com/1gigci66/screen/59242944) 
+Y este fue el resultado final de la [aplicación](https://marvelapp.com/1gigci66/screen/59242942) 
 
