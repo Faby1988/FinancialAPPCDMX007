@@ -28,6 +28,12 @@ Para esta etapa se decidio realizar una investigación de campo donde se le preg
 De donde obtuvimos 4 mapas de empatía que nos hicieron comprender mas al usuario al cual dirigiriamos la solución de esta aplicación: 
 
 ![Mapa](https://i.ibb.co/tssj9xt/Captura-de-Pantalla-2019-07-14-a-la-s-1-22-50.png)
+
+
 ![Mapa](https://i.ibb.co/hcQRdP2/Captura-de-Pantalla-2019-07-14-a-la-s-1-24-28.png)
+
+
 ![Mapa](https://i.ibb.co/g3gGqRC/Captura-de-Pantalla-2019-07-14-a-la-s-1-26-02.png)
+
+
 ![Mapa](https://i.ibb.co/r2MCjzF/Captura-de-Pantalla-2019-07-14-a-la-s-1-27-12.png)
